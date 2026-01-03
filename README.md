@@ -1,6 +1,6 @@
 # 🌐 State Printing Corporation ERP System
 
-An **Enterprise Resource Planning (ERP)** system developed for the **State Printing Corporation**, designed to seamlessly integrate the operations of various departments including **Finance**, **Marketing**, **Procurement**, **Security**, and more. This system promotes centralized data access, operational transparency, and real-time collaboration across departments.
+An **Enterprise Resource Planning (ERP)** system developed for the **State Printing Corporation**, designed to seamlessly integrate the operations of various departments including **Transport**, **Supplies**, **Marketing**, **Procurement**, **Security**, **HR & Admin** and more. This system promotes centralized data access, operational transparency, and real-time collaboration across departments.
 
 ## 🧩 Key Modules
 
