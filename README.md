@@ -4,9 +4,8 @@ An **Enterprise Resource Planning (ERP)** system developed for the **State Print
 
 ## 🧩 Key Modules
 
-- **Finance**: Budget planning, expenditure tracking, and reporting
-- **Marketing**: Campaign management, customer interaction logs
-- **Procurement**: Vendor management, purchase orders, and inventory control
+- **Transport**: Access to all transport functions.
+- **Supplies**: Access to supply deapartment port to register vehicel service and cabs renting services companies.
 - **Security**: Access logs, visitor tracking, and employee clearance management
 - **HR & Admin** *(optional)*: Staff records, attendance, and leave management
 
@@ -16,7 +15,7 @@ An **Enterprise Resource Planning (ERP)** system developed for the **State Print
 
 | Layer         | Technology                     |
 |---------------|-------------------------------|
-| Frontend      | React + Vite + Node.js        |
+| Frontend      | Next + Vite + Node.js        |
 | Backend       | Spring Boot (Java)            |
 | Database      | MySQL                         |
 | REST API      | JSON-based communication      |
